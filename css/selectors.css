@@ -1,0 +1,19 @@
+/* universal */
+/* * {
+    background-color: black;
+} */
+
+
+/* ID */
+#myHeading{
+    background-color: yellow;
+}
+
+/* Class */
+.abc {
+    background-color: brown;
+}
+
+p {
+    color: red;
+}
