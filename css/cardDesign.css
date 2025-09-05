@@ -1,0 +1,17 @@
+.card {
+    width: 300px;
+    background-color: yellow;
+}
+
+.card .card-img img {
+    width: 100%;
+}
+
+.card .card-content {
+    padding: 10px;
+}
+
+.card .card-content #title{
+    font-size: 25px;
+    font-weight: bold;
+}
